@@ -43,7 +43,7 @@ ul {
 .content {
   display: flex;
   gap: 100px;
-  justify-content: center;
+  justify-content: space-between;
 }
 
 .content .info {
